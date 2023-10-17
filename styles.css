@@ -71,7 +71,7 @@ header {
       margin-right: 20px;
     }
    .txt h1 {
-    font-size: 30px;
+    font-size: 20px;
    }
 
   }
@@ -401,6 +401,7 @@ footer {
   .column p{
     color: white;
     text-align: center;
+    font-size:15px;
   }
   
   @media screen and (max-width: 954px) {
